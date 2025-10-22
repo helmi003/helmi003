@@ -51,7 +51,7 @@ I thrive on transforming ideas into high-quality, user-focused digital products 
 ### <img src="https://media.giphy.com/media/3o7aD4Hx6U9g6mkk1W/giphy.gif" width="35">&nbsp; Connect With Me <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://helmi-ben-romdhane.netlify.app"><img src="https://skillicons.dev/icons?i=vercel" width="45"/></a>
+  <a href="https://helmi-ben-romdhane.netlify.app"><img src="https://raw.githubusercontent.com/helmi003/helmi003/main/logo.png" width="30" height="50" alt="Helmi Logo"/></a>
   <a href="https://www.linkedin.com/in/helmi-ben-romdhane"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/HelmiBenRomdha8"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   <a href="https://www.instagram.com/helmi_b.r"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
